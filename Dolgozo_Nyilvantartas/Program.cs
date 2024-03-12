@@ -9,6 +9,7 @@ namespace RestApiClient
     class Program
     {
         static async Task Main(string[] args)
+
         {
 
             // API végpont URL-je
